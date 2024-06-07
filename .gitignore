@@ -1,6 +1,7 @@
 *.log
 dir/ 
 myexcel.xlsx
+sfd
 # --> to ignore all the type of dir folder
 # /dir/
 # both side / is to to ignore only the outer dir . So the dir inside the static is untracked
